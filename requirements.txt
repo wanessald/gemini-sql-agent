@@ -1,0 +1,6 @@
+pandas
+google-genai
+streamlit
+mysql-connector-python
+faker
+python-dotenv

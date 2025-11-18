@@ -1,0 +1,32 @@
+# ----------------------------------------
+# 1. Variáveis de Ambiente e Credenciais
+# ----------------------------------------
+.env
+.DS_Store
+
+# ----------------------------------------
+# 2. Ambientes Virtuais e Cache
+# ----------------------------------------
+# Ambientes Virtuais (VENV)
+.venv/
+venv/
+env/
+
+# Python cache e arquivos temporários
+__pycache__/
+*.pyc
+*.pyd
+*.$py.class
+
+# ----------------------------------------
+# 3. Streamlit e IDEs
+# ----------------------------------------
+.streamlit/
+
+# ----------------------------------------
+# 4. Dados e Binários 
+# ----------------------------------------
+db/
+
+# Ignorador de versão (pyenv)
+.python-version
